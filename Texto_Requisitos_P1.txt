@@ -26,6 +26,7 @@ d) queda de pessoas em função de irregularidades nos pisos, rampas e escadas, 
 e) ferimentos provocados por ruptura de subsistemas ou componentes, resultando em partes cortantes ou perfurantes;
 f) ferimentos ou contusões em função da operação das partes móveis de componentes, como janelas, portas, alçapões e outros;
 g) ferimentos ou contusões em função da dessolidarização ou da projeção de materiais ou componentes a partir das coberturas e das fachadas, tanques de lavar, pias e lavatórios, com ou sem pedestal, e de componentes ou equipamentos normalmente fixáveis em paredes;
+h) ferimentos ou contusões em função de explosão resultante de vazamento ou de confnamento de gás combustível.
 Evitar a ocorrência de ferimentos ou danos aos usuários, em condições normais de uso.
 A edificação habitacional deve atender aos requisitos das Normas específicas. 
 Atendimento aos requisitos especificados nas ABNT NBR 15575-3 a ABNT NBR 15575-5.
