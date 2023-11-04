@@ -1,4 +1,4 @@
-Hel,i é o coefciente de transferência térmica de um elemento i da superfície externa, expresso em watts por kelvin (W/K);
+Hel,i é o coefciente de transferência térmica de um elemento i da superfície externa, expresso em watts por kelvin (W/K).
 Uel,i é a transmitância térmica do elemento i, expressa em watts por metro quadrado kelvin (W/(m².K)).
 O coefciente de transferência térmica total (Htotal) deve ser calculado pela equação.
 Contando unicamente com iluminação natural, o fator de luz diurna (FLD) nas diferentes dependências das construções habitacionais deve atender ao disposto na Tabela 5.
