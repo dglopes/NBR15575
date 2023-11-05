@@ -4,4 +4,4 @@ Uel,i é a transmitância térmica do elemento i, expressa em watts por metro qu
 Contando unicamente com iluminação natural, o fator de luz diurna (FLD) nas diferentes dependências das construções habitacionais deve atender ao disposto na Tabela 5.
 O PHiFTAPP pode ser calculado apenas para os climas que se enquadrarem no Intervalo 1, com média anual da temperatura externa de bulbo seco (TBSm) inferior a 25 ºC.
 A contagem dos prazos de garantia indicados na Tabela D.1 inicia-se a partir da expedição do “Habite-se” ou “Auto de Conclusão”, ou outro documento legal que ateste a conclusão das obras.
-PARÁGRAFO UNICO: Será admitido avanço de 20% (vinte por cento) do raio "I" sobre logradouro público em até 1/3 (um terço) da largura deste.
+PARÁGRAFO UNICO, Será admitido avanço de 20% (vinte por cento) do raio "I" sobre logradouro público em até 1/3 (um terço) da largura deste.
