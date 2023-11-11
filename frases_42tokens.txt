@@ -1,0 +1,55 @@
+Devem ainda ser considerados riscos de explosões oriundas do confinamento de gases resultantes de aterros sanitários, solos contaminados, proximidade de pedreiras e outros, tomando-se as providências necessárias para que não ocorram prejuízos à segurança e à funcionalidade da obra.
+Os projetos devem ainda prever as interações entre construções próximas, considerando-se convenientemente as eventuais sobreposições de bulbos de pressão, efeitos de grupo de estacas, rebaixamento do lençol freático e desconfinamento do solo em função do corte do terreno.
+Tais fenômenos também não podem prejudicar a segurança e a funcionalidade da obra, bem como de edificações vizinhas.
+Os edifícios multifamiliares devem ser providos de proteção contra descargas atmosféricas, atendendo ao estabelecido na ABNT NBR 5419 e demais Normas Brasileiras aplicáveis, nos casos previstos na legislação vigente.
+As instalações elétricas das edificações habitacionais devem ser projetadas de acordo com a ABNT NBR 5410 e Normas Brasileiras aplicáveis.
+As instalações de gás devem ser projetadas e executadas de acordo com as ABNT NBR 13523 e ABNT NBR 15526.
+As rotas de saída de emergência dos edifícios devem atender ao disposto na ABNT NBR 9077.
+A distância entre edifícios deve atender à condição de isolamento, considerando-se todas as interferências previstas na legislação vigente.
+As medidas de proteção, incluindo no sistema construtivo o uso de portas ou selos corta-fogo, devem possibilitar que o edifício seja considerado uma unidade independente.
+Os sistemas ou elementos de compartimentação que integram as edificações habitacionais devem atender à ABNT NBR 14432 e à parte da ABNT NBR 15575 para minimizar a propagação do incêndio, assegurando estanqueidade e isolamento.
+A edificação habitacional deve atender à ABNT NBR 14432 e às normas específicas para o tipo de estrutura conforme mencionado em 8.6.2.
+O edifício habitacional multifamiliar deve dispor de sistemas de alarme, extinção, sinalização e iluminação de emergência, conforme proposto nas ABNT NBR 17240, ABNT NBR 13434 (Partes 1, 2 e 3),  ABNT NBR 12693, ABNT NBR 13714 e ABNT NBR 10898.
+Evitar a ocorrência de ferimentos ou danos aos usuários, em condições normais de uso.
+A edificação habitacional deve atender aos requisitos das Normas específicas.
+Atendimento aos requisitos especificados nas ABNT NBR 15575-3 a ABNT NBR 15575-5.
+O arquivo climático deve possuir informações que sejam representativas do clima da cidade onde a UH está localizada.
+Caso a cidade de implantação da UH não possua arquivo climático, deve ser utilizado o arquivo climático de uma cidade próxima com clima semelhante.
+A semelhança entre os climas deve considerar a comparação da distância euclidiana, ponderando latitude, longitude e altitude.
+Os sistemas de pisos que compõem os edifícios habitacionais devem atender pelo menos aos critérios mínimos estabelecidos nas ABNT NBR 15575-3 e ABNT NBR 15575-5.
+Este critério aplica-se também aos sistemas de pisos com função estrutural.
+Contando unicamente com iluminação natural, os níveis gerais de iluminância nas diferentes dependências das construções habitacionais devem atender ao disposto na Tabela 4.
+A presença de taludes, muros, coberturas de garagens e outros obstáculos do gênero não podem prejudicar os níveis mínimos de iluminância especificados.
+Nos conjuntos habitacionais integrados por edifícios, a implantação relativa dos prédios, de eventuais caixas de escada ou de outras construções, não podem prejudicar os níveis mínimos de iluminância especificados.
+Os níveis gerais de iluminação promovidos nas diferentes dependências dos edifícios habitacionais por iluminação artificial devem atender ao disposto na Tabela 6.
+O edifício e seus sistemas devem apresentar durabilidade compatível com a vida útil de projeto (VUP) preestabelecida em 14.2.1.
+As condições de exposição do edifício devem ser especificadas em projeto, a fim de possibilitar uma análise da vida útil de projeto (VUP) e da durabilidade do edifício e seus sistemas.
+As especificações relativas à manutenção, uso e operação do edifício e seus sistemas que forem consideradas em projeto para definição da vida útil de projeto (VUP) devem estar também claramente detalhadas na documentação que acompanha o edifício ou subsidia sua construção.
+Manter a capacidade do edifício e de seus sistemas e permitir ou favorecer as inspeções prediais, bem como as intervenções de manutenção previstas no Manual de Uso, Operação e Manutenção, conforme responsabilidades estabelecidas na Seção 5.
+Propiciar condições de salubridade no interior da edificação, considerando as condições de umidade e temperatura no interior da unidade habitacional, aliadas ao tipo dos sistemas utilizados na construção.
+O requisito mencionado deve atender aos critérios fixados na legislação vigente.
+Os materiais, equipamentos e sistemas empregados na edificação não podem liberar produtos que poluam o ar em ambientes confinados, originando níveis de poluição acima daqueles verificados no entorno.
+Enquadram-se nesta situação os aerodispersoides, gás carbônico e outros.
+O requisito mencionado deve atender aos critérios fixados na legislação vigente.
+Gases de escapamento de veículos e equipamentos não podem invadir áreas internas da habitação.
+O sistema de exaustão ou ventilação de garagens internas deve permitir a saída dos gases poluentes gerados por veículos e equipamentos.
+O requisito mencionado deve atender aos critérios fixados na legislação vigente.
+A altura mínima de pé-direito não pode ser inferior a 2,50 m.
+Em vestíbulos, halls, corredores, instalações sanitárias e despensas, é permitido que o pé-direito seja  reduzido ao mínimo de 2,30 m.
+Para os projetos de arquitetura de unidades habitacionais, sugere-se prever no mínimo a disponibilidade de espaço nos cômodos da edificação habitacional para colocação e utilização dos móveis e equipamentos-padrão listados no Anexo F .
+As áreas privativas devem receber as adaptações necessárias para pessoas com deficiência física ou com mobilidade reduzida nos percentuais previstos na legislação, e as áreas de uso comum sempre devem atender ao estabelecido na ABNT NBR 9050.
+No projeto e na execução das edificações térreas e assobradadas, de caráter evolutivo, deve ser prevista pelo incorporador ou construtor a possibilidade de ampliação, especificando-se os detalhes construtivos necessários para ligação ou a continuidade de paredes, pisos, coberturas e instalações.
+As especificações e detalhes construtivos fornecidos devem permitir no mínimo a manutenção dos níveis de desempenho da construção não ampliada, relativos ao comportamento estrutural, segurança ao fogo, estanqueidade à água, desempenho térmico, desempenho acústico e durabilidade.
+As propostas de ampliação devem ser devidamente consideradas nos estudos de arquitetura, devendo atender aos níveis de funcionalidade previstos nesta Norma.
+Os elementos e componentes da habitação (trincos, puxadores, cremonas, guilhotinas etc.) devem ser projetados, construídos e montados de forma a não provocar ferimentos nos usuários.
+Relativamente às instalações hidrossanitárias, devem ser atendidas as disposições da ABNT NBR 15575-6.
+Os elementos e componentes que contam com normalização específica (portas, janelas, torneiras e outros) devem ainda atender aos requisitos das respectivas normas.
+Os componentes, equipamentos e dispositivos de manobra devem ser projetados, construídos e montados de forma a evitar que a força necessária para o acionamento não exceda 10 N nem o torque ultrapasse 20 N.m.
+Além do descrito anteriormente, devem ser atendidos os requisitos das ABNT NBR 8044 e ABNT NBR 11682, bem como da legislação vigente.
+Recomenda-se que os empreendimentos sejam construídos mediante exploração e consumo racionalizado de recursos naturais, objetivando a menor degradação ambiental, menor consumo de água, de energia e de matérias-primas.
+Na medida do possível, devem ser privilegiados os materiais que causem menor impacto ambiental, desde as fases de exploração dos recursos naturais até a sua utilização final.
+Recomenda-se a utilização de madeiras cuja origem possa ser comprovada mediante apresentação de certificação legal ou provenientes de plano de manejo aprovado pelos órgãos ambientais.
+Durante a construção, deve-se implementar um sistema de gestão de resíduos no canteiro de obras, de forma a minimizar sua geração e possibilitar a segregação de maneira adequada para facilitar o reuso, a reciclagem ou a disposição final em locais específicos.
+No caso de reuso de água para destinação não potável, esta deve atender aos parâmetros estabelecidos na Tabela 8.
+As instalações elétricas devem privilegiar a adoção de soluções, caso a caso, que minimizem o consumo de energia, entre elas a utilização de iluminação e ventilação natural e de sistemas de aquecimento baseados em energia alternativa.
+Convém a adoção de soluções que minimizem o consumo de energia, entre elas a utilização de iluminação e ventilação natural e de sistemas de aquecimento baseados em energia alternativa.  
