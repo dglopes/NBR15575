@@ -1,0 +1,20 @@
+Os edifícios multifamiliares devem ser providos de proteção contra descargas atmosféricas atendendo ao estabelecido na ABNT NBR 5419 e demais Normas Brasileiras aplicáveis nos casos previstos na legislação vigente
+As instalações elétricas das edificações habitacionais devem ser projetadas de acordo com a ABNT NBR 5410 e Normas Brasileiras aplicáveis
+Recomenda-se evitar o risco de ignição dos materiais em função de curtos-circuitos e sobretensões
+As instalações de gás devem ser projetadas e executadas de acordo com as ABNT NBR 13523 e ABNT NBR 15526
+A comprovação do atendimento ao requisito de 8.2 pelos critérios estabelecidos em 8.2.1.1 a 8.2.1.3 deve ser feita pela análise do projeto ou por inspeção em protótipo
+Quando houver ambiente enclausurado devem ser atendidas a ABNT NBR 15526 e outras Normas Brasileiras aplicáveis
+As rotas de saída de emergência dos edifícios devem atender ao disposto na ABNT NBR 9077
+Análise do projeto ou por inspeção em protótipo
+Os materiais de revestimento acabamento e isolamento termoacústico empregados na face interna dos sistemas ou elementos que compõem a edificação devem ter as características de propagação de chamas controladas de forma a atender aos requisitos estabelecidos nas ABNT NBR 15575-3 e a ABNT NBR 15575-5 e ABNT NBR 9442
+A comprovação do atendimento aos requisitos estabelecidos em 8.4.1 deve ser feita por inspeção em protótipo ou ensaios conforme Normas Brasileiras específicas
+A distância entre edifícios deve atender à condição de isolamento considerando-se todas as interferências previstas na legislação vigente
+As medidas de proteção incluindo no sistema construtivo o uso de portas ou selos corta-fogo devem possibilitar que o edifício seja considerado uma unidade independente
+Os sistemas ou elementos de compartimentação que integram as edificações habitacionais devem atender à ABNT NBR 14432 e à parte da ABNT NBR 15575 para minimizar a propagação do incêndio assegurando estanqueidade e isolamento
+Para isolamento de risco: análise do projeto e dimensionamento das distâncias seguras tendo em conta a ignição-piloto por radiação e a convecção através da cobertura
+Análise do projeto ou inspeção em protótipo atendendo à legislação vigente Para os sistemas da edificação consultar as demais partes da ABNT NBR 15575
+A edificação habitacional deve atender à ABNT NBR 14432 e às normas específicas para o tipo de estrutura conforme mencionado em 8.6.2
+Análise do projeto estrutural em situação de incêndio
+Atendimento às seguintes Normas de projeto estrutural:  ABNT NBR 14323 para estruturas de aço  ABNT NBR 15200 para estruturas de concreto  para as demais estruturas aplica-se o Eurocode correspondente em sua última edição
+O edifício habitacional multifamiliar deve dispor de sistemas de alarme extinção sinalização e iluminação de emergência conforme proposto nas ABNT NBR 17240 ABNT NBR 13434 (Partes 1 2 e 3) ABNT NBR 12693 ABNT NBR 13714 e ABNT NBR 10898
+Análise do projeto e sendo possível inspeção em protótipo atendendo à legislação vigente
