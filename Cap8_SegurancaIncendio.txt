@@ -18,4 +18,3 @@ Análise do projeto estrutural em situação de incêndio.
 Atendimento às seguintes Normas de projeto estrutural:  ABNT NBR 14323, para estruturas de aço;  ABNT NBR 15200, para estruturas de concreto;  para as demais estruturas, aplica-se o Eurocode correspondente, em sua última edição.
 O edifício habitacional multifamiliar deve dispor de sistemas de alarme, extinção, sinalização e iluminação de emergência, conforme proposto nas ABNT NBR 17240, ABNT NBR 13434 (Partes 1, 2 e 3), ABNT NBR 12693, ABNT NBR 13714 e ABNT NBR 10898.
 Análise do projeto e, sendo possível, inspeção em protótipo atendendo à legislação vigente.
-
